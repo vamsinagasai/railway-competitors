@@ -1,4 +1,4 @@
-# Railway Competitors -- A Full Breakdown
+# Railway Competitors - A Full Breakdown
 
 A head-to-head comparison of Railway's main competitors. Every platform's real limitations are laid out so you can make an informed decision.
 
